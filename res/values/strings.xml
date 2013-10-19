@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">IndoChord</string>
+    <string name="hello_world">IndoChord</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">IndoChord</string>
+
+    <color name="color1">#46A4FF</color>
+    <color name="color2">#0000FF</color>
+    <color name="BiruTua">#28166F</color>
+    <color name="hitam">#000000</color>
+    <color name="putih">#FFFFFF</color>
+    <string name="label1">Band</string>
+    <string name="label2">Song\'s Title</string>
+    <string name="label3">Search</string>
+    <string name="label4">Recent Chord</string>
+    <string name="label5">IndoChord</string>
+    <string name="label6">Search Result</string>
+    <string name="label7">Loading..</string>
+    <color name="transparan">#00000000</color>
+    <string name="label8">developed by omayib</string>
+    <string name="label9">www.indocode.net</string>
+    <color name="silver">#C3B9B7</color>
+    <string name="stringhasil">haisl cari</string>
+    <string name="hasilcari">hasil cari</string>
+
+</resources>
